@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @juanCruzB73
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m @juanCruzB73.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning React, java and python.
 - 📫 How to reach me juancruzberrios73@gmail.com
 
 <!---
