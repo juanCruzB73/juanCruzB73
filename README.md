@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanCruzB.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning React and spring boot
+- 🌱 I’m currently learning React, Typescript and spring boot
 - 📫 How to reach me juancruzberrios73@gmail.com
 
 <!---
