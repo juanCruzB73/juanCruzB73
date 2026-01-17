@@ -13,13 +13,16 @@
   🇦🇷 Developer based in <b>Mendoza, Argentina</b> <br>
   📗Graduated <b>Higher Technical Degree in Software Development</b> at <a href="https://www.linkedin.com/school/universidad-tecnologica-nacional">Universidad Tecnológica Nacional</a> <br>
   💻Working at Rlink as a <b>Full-Stack Developer</b> using <b>React and <b>Ruby on Rails</b> <br>
+  - React & Ruby on Rails
+  - Large-scale production systems
+  - Private enterprise repositories
   💭I speak <b>English</b> (C2) and <b>Spanish</b> (Native) <br>
 
    <a href="https://www.github.com/juanCruzB73"><img src="https://github-readme-stats-fast.vercel.app/api?username=juanCruzB73&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Statistics&border_color=6BD600"></a>
   <a href="https://www.github.com/juanCruzB73"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juanCruzB73&theme=chartreuse-dark&bg_color=0D1117&hide_border=false&count_private=true&layout=compact&custom_title=Languages&langs_count=8&size_weight=0.5&border_color=6BD600"></a> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanCruzB73&theme=github-compact&color=6BD600&border_color=6BD600&line=6BD600&point=6BD600&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="80%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanCruzB73&theme=github-compact&color=6BD600&border_color=6BD600&line=6BD600&point=6BD600&area=true&hide_border=false&include_all_commits=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="80%"/>
 
-<img src ="https://github-readme-stats-fast.vercel.app/api/streak?username=juanCruzB73&theme=ocean_dark">
+<img src ="https://github-readme-stats-fast.vercel.app/api/streak?username=juanCruzB73&theme=ocean_dark&include_all_commits=true">
   <h1>Skills</h1>  
 <div id="toc">
   <ul style="list-style: none">
