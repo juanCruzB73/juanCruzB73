@@ -50,7 +50,7 @@
   <br><br>
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=juanCruzB73&theme=github-compact&color=6BD600&border_color=6BD600&line=6BD600&point=6BD600&area=true&hide_border=false&custom_title=Contribution%20Graph&v=2"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=juanCruzB73&theme=github-compact&color=6BD600&border_color=6BD600&line=6BD600&point=6BD600&area=true&hide_border=false&custom_title=Contribution%20Graph"
     alt="Contribution Graph"
     width="80%"
   />
@@ -58,7 +58,7 @@
   <br><br>
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=juanCruzB73&theme=dark&background=0D1117&ring=FFAA00&fire=FFAA00&currStreakLabel=6BD600&sideLabels=6BD600&currStreakNum=6BD600&sideNums=6BD600&dates=6BD600&border=6BD600&v=2"
+    src="https://streak-stats.demolab.com?user=juanCruzB73&theme=dark&background=0D1117&border=6BD600&ring=FFAA00&fire=FFAA00&currStreakLabel=6BD600&sideLabels=6BD600&currStreakNum=6BD600&sideNums=6BD600&dates=6BD600&timezone=America%2FArgentina%2FMendoza"
     alt="GitHub Streak"
   />
 
