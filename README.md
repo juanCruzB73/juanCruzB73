@@ -23,21 +23,21 @@ alt="Typing SVG"
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Full-Stack Developer** from **Mendoza, Argentina 🇦🇷**, focused on building and maintaining real-world production applications.
+I'm a **Full-Stack Developer** based in **Mendoza, Argentina**, focused on building and maintaining production applications.
 
-* 💼 Full-Stack Developer at **Rlink**
-* ⚙️ Working primarily with **Ruby on Rails** and **React**
-* 🏗️ Experience with large-scale production systems
-* 🔐 Experience working with private enterprise repositories
-* 🎓 Higher Technical Degree in Software Development — **Universidad Tecnológica Nacional**
-* 🌎 Spanish — Native
-* 🇬🇧 English — C2
+* Full-Stack Developer at **Rlink**
+* Working primarily with **Ruby on Rails** and **React**
+* Experience with large-scale production systems
+* Experience working with private enterprise repositories
+* Higher Technical Degree in Software Development — **Universidad Tecnológica Nacional**
+* Spanish — Native
+* English — C2
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@ I'm a **Full-Stack Developer** from **Mendoza, Argentina 🇦🇷**, focused on 
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
@@ -90,7 +90,7 @@ alt="GitHub Streak"
 
 ---
 
-## 🟩 Contributions
+## Contributions
 
 <div align="center">
 
@@ -114,7 +114,7 @@ width="95%"
 
 ---
 
-## 🚀 What I Work With
+## Main Technologies
 
 ```text
 Front-End     React · TypeScript · JavaScript · HTML · CSS
@@ -135,6 +135,6 @@ Environment   Linux · Git · GitHub · Jira
 
 <br><br>
 
-<sub>Software Developer • Mendoza, Argentina 🇦🇷</sub>
+<sub>Software Developer · Mendoza, Argentina</sub>
 
 </div>
