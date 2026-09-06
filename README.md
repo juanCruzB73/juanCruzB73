@@ -114,17 +114,6 @@ width="95%"
 
 ---
 
-## Main Technologies
-
-```text
-Front-End     React · TypeScript · JavaScript · HTML · CSS
-Back-End      Ruby on Rails · Java · Spring · Node.js
-Databases     PostgreSQL · MySQL · MongoDB
-Environment   Linux · Git · GitHub · Jira
-```
-
----
-
 <div align="center">
 
 ### Let's build something.
