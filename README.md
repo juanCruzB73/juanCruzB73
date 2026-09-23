@@ -112,8 +112,6 @@ width="95%"
 
 </div>
 
----
-
 <div align="center">
 
 ### Let's build something.
